@@ -1,0 +1,11 @@
+{
+    "total_requests": 20,
+    "success_count": 17,
+    "failure_count": 3,
+    "success_rate": "85.00%",
+    "avg_latency": "0.07s",
+    "avg_retries_per_request": 0.95,
+    "failure_types": {
+        "No pages generated": 3
+    }
+}
