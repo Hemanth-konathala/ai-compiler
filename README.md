@@ -62,6 +62,5 @@ frontend/index.html
 ```
 
 ## Author
-
-Uday  
+Hemanth
 B.Tech CSE Student
